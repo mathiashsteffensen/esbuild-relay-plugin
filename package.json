@@ -1,0 +1,27 @@
+{
+  "name": "esbuild-relay-plugin",
+  "version": "1.0.0",
+  "description": "Relay plugin for esbuild based on https://www.npmjs.com/package/babel-plugin-relay",
+  "main": "src/EsbuildRelayPlugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathiashsteffensen/esbuild-relay-plugin.git"
+  },
+  "keywords": [
+    "esbuild",
+    "relay",
+    "graphql"
+  ],
+  "author": "Mathias H Steffensen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mathiashsteffensen/esbuild-relay-plugin/issues"
+  },
+  "homepage": "https://github.com/mathiashsteffensen/esbuild-relay-plugin#readme",
+  "dependencies": {
+    "graphql": "^16.6.0"
+  }
+}
